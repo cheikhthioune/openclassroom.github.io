@@ -1,0 +1,65 @@
+nav.menu ul li.btn {
+    list-style-type:none;
+}
+nav.menu ul li.btn{
+     display: inline-block;
+}
+nav.menu ul li.btn a{
+    color:red;
+	background-color:yellow;
+	text-decoration:none;
+	font-size:30px;
+}
+nav.menu ul li.btn:hover a{
+color: green;
+background-color:white;
+}
+nav.menus ul li.diop a{
+  color: red;
+  background: yellow;
+  font-size:30px
+}
+nav.menus ul li.diop{
+    display: inline-block;
+}
+nav.menus ul li.diop:hover a{
+   color: green;
+   background: white;
+}
+body {
+    color:black;
+	background:white;
+	border:3px blue dashed;
+}
+h1{
+border:5px blue groove;
+}
+body 
+{
+   font-size:small ;
+   font-family:Arial black;
+   font-style:oblique;  
+   border: 3px blue;   
+}   
+h1.contact{
+	  text-align:left;
+}
+footer{
+    background-color:white;
+}
+div#sadji div{
+  display: inline-block;
+  width:48%;
+}
+div#sadji div.leftbox{
+  background-color:blue;
+  vertical-align:top;	
+}
+div#sadji div.rightbox{
+  background-color:blue;
+}
+h1.titre{
+         color:red;
+		 font-size:60px;
+		 font-family:algerian;
+}
